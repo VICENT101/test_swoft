@@ -72,9 +72,9 @@ return [
     ],
     'db'                => [
         'class'    => Database::class,
-        'dsn'      => 'mysql:dbname=test;host=127.0.0.1',
+        'dsn'      => 'mysql:dbname=cb_test;host=127.0.0.1',
         'username' => 'root',
-        'password' => 'swoft123456',
+        'password' => 'Qwer@4321',
     ],
     'db2'               => [
         'class'      => Database::class,
